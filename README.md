@@ -1,3 +1,12 @@
 # Plan2k20
-Plan in twentytwenty
+-----
+
+### My plan in 2020 year.
+----
+> Ty for support
+----
+
+## 1. Globals
+      *. Абилити
+      *. Авыа
 
